@@ -1,0 +1,1 @@
+Personal use starter project. Market data availability is subject to the upstream provider's terms. No financial advice.
